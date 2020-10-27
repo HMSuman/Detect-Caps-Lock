@@ -1,0 +1,10 @@
+#myInput {
+  color: orange;
+  border: 2px solid olive;
+  font-size: 15px;
+}
+#text {
+  display: none;
+  color: red;
+  font-size: bold;
+}
